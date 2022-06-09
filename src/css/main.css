@@ -1,7 +1,7 @@
 body 
 {
-background-color: azure;
-font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #E5E5E5;
+font-family: 'Roboto';
 font-size: 20px;
 color: rgb(8, 8, 57);
 }
@@ -9,15 +9,23 @@ color: rgb(8, 8, 57);
 .container
 {
     width: 1440px;
+    height: 960 px;
     padding: 0px;
     margin-right: auto;
     margin-left: auto;
-    background-color: rgb(134, 244, 207);
+    background-color: #E5E5E5;
     text-align: center;
+    margin-bottom: 20px;
+   
     
 }
-.postcard
+.imagine
 {
+width: 505 px;
+height: 330 px;
+margin-left: 230px;
+margin-top: 96px;
+background-blend-mode: normal;
 
 }
 .module
