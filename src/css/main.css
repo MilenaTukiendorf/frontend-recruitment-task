@@ -3,5 +3,24 @@ body
 background-color: azure;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 20px;
-color: blue;
+color: rgb(8, 8, 57);
+}
+
+.container
+{
+    width: 1440px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(134, 244, 207);
+    text-align: center;
+    
+}
+.postcard
+{
+
+}
+.module
+{
+
 }
