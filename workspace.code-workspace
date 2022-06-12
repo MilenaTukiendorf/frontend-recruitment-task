@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "dist"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": ".git"
+		}
+	]
+}
