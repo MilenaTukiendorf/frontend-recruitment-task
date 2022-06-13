@@ -1,5 +1,1 @@
-body
-{
-background-color: grey;
-
-}
+alert("JS work");
