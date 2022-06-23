@@ -74,7 +74,7 @@ margin-right: 50px;
     justify-content: center;
     align-items: center;
 
-    /* display: none; */
+    display: none;
 
 } 
 
@@ -85,4 +85,16 @@ margin-right: 50px;
     padding: 10px;
     font-size: 42px;
     font-weight: 700;
+}
+.show-popup {
+    /* position: absolute; */
+
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+
+    display: flex;
+
 }
